@@ -23,7 +23,7 @@ A single-page ReactJS news web app that displays top headlines across various ca
 # Getting Started
 ## 1. Clone the Repository
 ```
-  git clone https://github.com/your-username/news-web-app.git
+  git clone https://github.com/Asifa-10/NewsApp.git
   cd news-web-app
 ```
 ## 2. Install Dependencies
